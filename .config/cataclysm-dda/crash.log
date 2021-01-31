@@ -1,0 +1,58 @@
+The program has crashed.
+See the log file for a stack trace.
+CRASH LOG FILE: /home/ezion/.config/cataclysm-dda/crash.log
+VERSION: 0.E
+TYPE: Signal
+MESSAGE: SIGFPE: Arithmetical error
+STACK TRACE:
+
+    cataclysm-tiles(_Z21debug_write_backtraceRSo+0x44) [0x557c608bfa7e]
+    cataclysm-tiles(+0x80277c) [0x557c608a677c]
+    cataclysm-tiles(+0x8029e3) [0x557c608a69e3]
+    /usr/lib/libc.so.6(+0x3d6a0) [0x7f6052d456a0]
+    cataclysm-tiles(_ZN9main_menu16print_menu_itemsERKN10catacurses6windowERKSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaISA_EEm5pointi+0x1e4) [0x557c60c3505a]
+    cataclysm-tiles(_ZN9main_menu10print_menuERKN10catacurses6windowEiRK5point+0x528) [0x557c60c3567c]
+    cataclysm-tiles(+0xb91712) [0x557c60c35712]
+    cataclysm-tiles(_ZN10ui_adaptor18redraw_invalidatedEv+0x147) [0x557c61116429]
+    cataclysm-tiles(_Z13handle_resizeii+0xa5) [0x557c6108a20c]
+    cataclysm-tiles(+0xfe6d51) [0x557c6108ad51]
+    cataclysm-tiles(_ZN13input_manager15get_input_eventE13keyboard_mode+0x92) [0x557c6108bb34]
+    cataclysm-tiles(_ZN13input_context12handle_inputB5cxx11Ei+0x66) [0x557c60a815e0]
+    cataclysm-tiles(_ZN9main_menu14opening_screenEv+0x68e) [0x557c60c39f28]
+    cataclysm-tiles(main+0x17c0) [0x557c6054b72d]
+    /usr/lib/libc.so.6(__libc_start_main+0xf2) [0x7f6052d30152]
+    cataclysm-tiles(_start+0x2e) [0x557c6066880e]
+
+    Attempting to repeat stack trace using debug symbols…
+    debug_write_backtrace(std::ostream&)
+    ??:?
+    init_crash_handlers()
+    ??:?
+    init_crash_handlers()
+    ??:?
+    ??
+    ??:0
+    main_menu::print_menu_items(catacurses::window const&, std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&, unsigned long, point, int)
+    ??:?
+    main_menu::print_menu(catacurses::window const&, int, point const&)
+    ??:?
+    main_menu::print_menu(catacurses::window const&, int, point const&)
+    ??:?
+    ui_adaptor::redraw_invalidated()
+    ??:?
+    handle_resize(int, int)
+    ??:?
+    catacurses::endwin()
+    ??:?
+    input_manager::get_input_event(keyboard_mode)
+    ??:?
+    input_context::handle_input[abi:cxx11](int)
+    ??:?
+    main_menu::opening_screen()
+    ??:?
+    main
+    ??:?
+    __libc_start_main
+    ??:?
+    _start
+    ??:?

@@ -1,0 +1,57 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAHXAAAAOgAAA6wAAAJgAAAB1wAAADoAAAOsAAACYAAAAAAAAAAABkAAAAHXAAAAOgAAA6wAAAJg"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAACWPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAACWAAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAmQD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB/AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOkA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAM0A////AAAB1gAAAicAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "controls_help_shown_count": 2,
+    "current_color_scheme": "system",
+    "keyboard_shortcuts": {},
+    "margin_bottom": 5,
+    "margin_left": 5,
+    "margin_right": 5,
+    "margin_top": 5,
+    "override_book_colors": "always",
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Nicholas Kardaras"
+        ],
+        "key": "/home/ezion/Documents/eBooks/Nicholas Kardaras/Glow Kids_ How Screen Addiction Is Hijacking Our Kids-and How to Break the Trance (1)/Glow Kids_ How Screen Addiction Is Hijacki - Nicholas Kardaras.epub",
+        "pathtoebook": "/home/ezion/Documents/eBooks/Nicholas Kardaras/Glow Kids_ How Screen Addiction Is Hijacking Our Kids-and How to Break the Trance (1)/Glow Kids_ How Screen Addiction Is Hijacki - Nicholas Kardaras.epub",
+        "timestamp": "2021-01-16T17:09:59.355Z",
+        "title": "Glow Kids: How Screen Addiction Is Hijacking Our Kids-and How to Break the Trance"
+      },
+      {
+        "authors": [
+          "Jim Manis, ed.; Charles Darwin"
+        ],
+        "key": "/home/ezion/Documents/eBooks/Jim Manis, ed.; Charles Darwin/On the Origin of Species (2)/On the Origin of Species - Jim Manis, ed.; Charles Darwin.epub",
+        "pathtoebook": "/home/ezion/Documents/eBooks/Jim Manis, ed.; Charles Darwin/On the Origin of Species (2)/On the Origin of Species - Jim Manis, ed.; Charles Darwin.epub",
+        "timestamp": "2020-11-11T19:02:41.791Z",
+        "title": "On the Origin of Species"
+      },
+      {
+        "authors": [
+          "John Schember"
+        ],
+        "key": "/home/ezion/Documents/eBooks/John Schember/Quick Start Guide (1)/Quick Start Guide - John Schember.epub",
+        "pathtoebook": "/home/ezion/Documents/eBooks/John Schember/Quick Start Guide (1)/Quick Start Guide - John Schember.epub",
+        "timestamp": "2020-11-11T19:02:32.609Z",
+        "title": "Quick Start Guide"
+      }
+    ]
+  }
+}
